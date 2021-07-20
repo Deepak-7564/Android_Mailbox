@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mailbox</string>
+    <string name="str_title">Title</string>
+    <string name="str_to">To</string>
+    <string name="str_containing_text">Write here</string>
+
+
+
+</resources>
